@@ -4,7 +4,8 @@ A desktop application built with C# and Windows Forms that features custom-built
 
 ## 🚀 Features
 * **User Authentication:** Secure login and registration system using a local SQL database (`.mdf`).
-* **Arcade Minigames:** * **Snake:** Classic snake game with dynamic growth, collision detection, and score tracking.
+* **Arcade Minigames:** 
+  * **Snake:** Classic snake game with dynamic growth, collision detection, and score tracking.
   * **Flappy Bird:** Physics-based (gravity/jump) mechanics and pipe generation.
 * **High Score Tracking:** Persistent leaderboard system saved directly to the database.
 * **Gameplay Snapshots:** Custom utility button that allows users to take a screenshot of their current score and save it locally as a `.jpg`.
